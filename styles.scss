@@ -1,0 +1,26 @@
+body{
+    background-color: #055;
+    width: 100;
+    height: 100vh;
+}
+h1,p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1em;
+}
+fieldset{
+    border: hidden;
+    margin: 80px
+    
+}
+textarea,input{
+    width: 100%;
+}
+form{
+    margin: auto;
+}
+label{
+    display: block;
+    margin: 5px;
+}
+
